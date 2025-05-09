@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основная цветовая схема -->
+    <color name="PrimaryColor">#1C1F1E</color>         <!-- Темный гранитный -->
+    <color name="OnPrimaryColor">#C8392E</color>       <!-- Ярко-красный акцент -->
+
+    <color name="SecondaryColor">#804E4E</color>       <!-- Приглушенный бордовый -->
+    <color name="OnSecondaryColor">#FFFFFF</color>     <!-- Белый текст -->
+
+    <color name="SurfaceColor">#804E4E</color>         <!-- Повтор бордового для поверхностей -->
+    <color name="OnSurfaceColor">#E1E1E1</color>      <!-- Светло-серый текст -->
+</resources>
